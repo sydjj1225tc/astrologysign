@@ -1,3 +1,15 @@
+## 1. What phenomenon or experience is your project representing?
+
+The project represents the experience of understanding one’s own personality in a way that can be expressed simply to strangers. This astrology knowledge can be used for icebreaking.
+
+## 2. What part of that experience matters most?
+
+The experience helps the user with social interactions, enhances self-understanding, and is a source of entertainment.
+
+## 3. Does your current prototype represent that experience well? What does it capture or leave out?
+
+Our current prototype represents self-exploration well by showing users personality traits based on their astrology signs. The prototype shows how connecting a mystical knowledge domain and technology can make astrology more accessible and personalized. However, it does not fully represent the social aspect yet. We could improve it by adding more features that encourage users to share their results and use them as conversation starters.
+
 # Spark
 
 Open `index.html` directly in a modern browser. No installation, build tools, internet connection, API keys, or external services are required. All scripts, styles, and city data are local. Birth details are never sent or saved.
